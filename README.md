@@ -27,6 +27,7 @@ curl -fsSL https://bun.sh/install | bash
 ## Install dependencies
 
 ```bash
+bun upgrade # ensure you have the latest version of bun, 1.3.2 was used at the time of testing
 bun install
 ```
 
